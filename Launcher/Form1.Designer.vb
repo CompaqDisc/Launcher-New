@@ -22,9 +22,30 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container()
+        Me.TempCloseBtn = New System.Windows.Forms.Button()
+        Me.SuspendLayout()
+        '
+        'TempCloseBtn
+        '
+        Me.TempCloseBtn.Location = New System.Drawing.Point(12, 12)
+        Me.TempCloseBtn.Name = "TempCloseBtn"
+        Me.TempCloseBtn.Size = New System.Drawing.Size(75, 23)
+        Me.TempCloseBtn.TabIndex = 0
+        Me.TempCloseBtn.Text = "Close" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.TempCloseBtn.UseVisualStyleBackColor = True
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.Text = "Form1"
+        Me.ClientSize = New System.Drawing.Size(704, 361)
+        Me.Controls.Add(Me.TempCloseBtn)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
+        Me.Name = "Form1"
+        Me.Text = "Launcher"
+        Me.ResumeLayout(False)
+
     End Sub
 
+    Friend WithEvents TempCloseBtn As Button
 End Class

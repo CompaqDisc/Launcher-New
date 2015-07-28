@@ -1,1 +1,11 @@
 C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\obj\Debug\Launcher.vbprojResolveAssemblyReference.cache
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\obj\Debug\Launcher.Resources.resources
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\obj\Debug\Launcher.vbproj.GenerateResource.Cache
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\obj\Debug\Launcher.xml
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\bin\Debug\Launcher.exe
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\bin\Debug\Launcher.pdb
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\bin\Debug\Launcher.xml
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\obj\Debug\Launcher.exe
+C:\Users\Herobrine2Nether\Documents\GitHub\Launcher-New\Launcher\obj\Debug\Launcher.pdb
